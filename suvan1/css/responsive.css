@@ -1,0 +1,62 @@
+@media (max-width: 767px) {
+      .bgimg{
+    background: url(../images/bg.gif) !important;
+
+  }
+    .pd0-m {
+        padding: 0 !important;
+    }
+    .amenities p {
+        height: 61px;
+        font-size: 12px;
+        line-height: 16px;
+        margin-bottom: 14px;
+    }
+    .loc-head {
+        font-size: 25px;
+    }
+    .projecthigh-head {
+        font-size: 25px;
+    }
+    .sec-head {
+        font-size: 28px;
+    }
+    .high-txtwrap {
+        width: 100%;
+    }
+    .prohighlight-sec {
+        /*padding-top: 10px;*/
+    }
+    .ami-img-wrap img {
+        height: initial;
+    }
+    .high-txtwrap .high-inner h2 {
+        font-size: 17px;
+    }
+    .sub-head {
+        font-size: 30px;
+    }
+    .over-view {
+        margin: 15px auto;
+        width: 100%;
+    }
+    .modal-dialog {
+        margin-top: 70px !important;
+    }
+    .footer-sec {
+        margin-bottom: 40px;
+    }
+    .overview-subhead {
+        font-size: 17px;
+    }
+    #carousel-example-generic {
+        margin-top: 60px;
+    }
+    .head360 {
+        font-size: 23px;
+    }
+    .callnow {
+        width: 17px;
+        position: initial;
+    }
+}
